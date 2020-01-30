@@ -1,0 +1,3 @@
+export EMAIL_HOST_USER = ('kishorekumar131646@gmail.com')
+export EMAIL_HOST_PASSWORD = ')
+
