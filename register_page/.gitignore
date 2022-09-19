@@ -1,0 +1,17 @@
+__pycache__/
+venv/
+.serverless
+.vscode
+*.env
+.coveragerc
+.coverage
+.pylintrc
+get_layers_local.py
+.idea/
+*.pyc
+htmlcov/*
+.pytest_cache/
+coverage.xml
+.ipynb_checkpoints/
+*.ipynb
+db.sqlite3
